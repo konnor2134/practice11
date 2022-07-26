@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE group SYSTEM "group.dtd">
+<group>
+    <student firstname="Alex" groupnumber="1" lastname="Abramov">
+        <subject mark="3" title="Math"/>
+        <subject mark="5" title="Physics"/>
+        <subject mark="4" title="History"/>
+        <subject mark="3" title="Biology"/>
+        <average>1</average>
+    </student>
+    <student firstname="Dmitry" groupnumber="2" lastname="Gordon">
+        <subject mark="2" title="Math"/>
+        <subject mark="3" title="Physics"/>
+        <subject mark="2" title="History"/>
+        <subject mark="3" title="Biology"/>
+        <average>1</average>
+    </student>
+    <student firstname="Andrei" groupnumber="3" lastname="Kravchenko">
+        <subject mark="2" title="Math"/>
+        <subject mark="1" title="Physics"/>
+        <subject mark="3" title="History"/>
+        <subject mark="4" title="Biology"/>
+        <average>1</average>
+    </student>
+    <student firstname="Max" groupnumber="4" lastname="Pashenko">
+        <subject mark="5" title="Math"/>
+        <subject mark="5" title="Physics"/>
+        <subject mark="5" title="History"/>
+        <subject mark="4" title="Biology"/>
+    <average>1</average>
+    </student>
+</group>
